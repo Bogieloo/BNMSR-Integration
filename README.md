@@ -14,8 +14,8 @@ Get started with setup instructions and API usage:
 
 ### Quick Links
 
-* **[Download Latest Release](/releases/latest)**
-* **[Report an Issue](/issues)**
+* **[Download Latest Release](https://github.com/Bogieloo/BNMSR-Integration/releases/latest)**
+* **[Report an Issue](https://github.com/Bogieloo/BNMSR-Integration/issues)**
 
 > [!WARNING]
 > This tracker is **only** for the Integration plugin/API. If you open an issue here regarding the base BNMSR mod, your issue will be closed and your account will be blocked from opening future issues.
